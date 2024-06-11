@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    border: 0;
+}
+
+table {
+    width: 100%;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: center;
+    border: 1px solid #f4a4b1; 
+    background-color: #fddde6; 
+}
+
+th, td {
+    padding: 12px 15px;
+    border: 1px solid #f4a4b1;
+}
+
+th {
+    background-color: #f4a4b1;
+    color: #ffffff;
+}
+
+tr {
+    background-color: #ffe4ea;
+}
+
+.container {
+    margin-top: 50px;
+}
